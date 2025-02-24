@@ -1,8 +1,8 @@
 env: "local"
 storage:
-  user: "postgres"
-  password: "123"
-  dbname: "UrlList"
+  user: ""
+  password: ""
+  dbname: ""
   sslmode: "disable"
 http_server:
   address: "localhost:8080"
